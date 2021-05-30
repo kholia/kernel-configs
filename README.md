@@ -5,6 +5,9 @@
 * Tested `reasonable-64-kernel-config-4.10.txt` with QEMU/KVM running 64-bit
   Alpine Linux 3.5.1 userspace, February 2017.
 
+* Tested `reasonable-64-kernel-config-5.13.txt` with VirtualBox 6.1.x running
+  64-bit Xubuntu 21.04 guest, June 2021.
+
 ### References
 
 * https://github.com/kholia/mips-hacking
